@@ -17,6 +17,9 @@ public class hw03_1050210XX {
 			else
 				zero++;
 		}
+		System.out.println("正數個數"+positive);
+		System.out.println("零的個數"+zero);
+		System.out.println("負數個數"+negative);
 	}
 
 }
